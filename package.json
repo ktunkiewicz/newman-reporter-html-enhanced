@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-html-enhanced",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Newman HTML reporter with extra stuff inside",
   "main": "lib/index.js",
   "repository": {
