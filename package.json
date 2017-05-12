@@ -1,0 +1,27 @@
+{
+  "name": "newman-reporter-htmlEnhanced",
+  "version": "1.0.0",
+  "description": "Newman HTML reporter with extra stuff inside",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktunkiewicz/newman-reporter-html-enhanced.git"
+  },
+  "keywords": [
+    "newman",
+    "reporter",
+    "html",
+    "json"
+  ],
+  "author": "Kamil Tunkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktunkiewicz/newman-reporter-html-enhanced/issues"
+  },
+  "homepage": "https://github.com/ktunkiewicz/newman-reporter-html-enhanced#readme",
+  "dependencies": {
+    "handlebars": "^4.0.8",
+    "json-formatter": "^0.1.0",
+    "lodash": "^4.17.4"
+  }
+}
