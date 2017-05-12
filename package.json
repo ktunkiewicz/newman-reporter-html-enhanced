@@ -1,5 +1,5 @@
 {
-  "name": "newman-reporter-htmlEnhanced",
+  "name": "newman-reporter-html-enhanced",
   "version": "1.0.0",
   "description": "Newman HTML reporter with extra stuff inside",
   "main": "lib/index.js",
